@@ -8,7 +8,7 @@
 ## 🌐 Sosyal Medya ve Takip
 - ✨ Instagram: https://www.instagram.com/sky_pals_/
 - 🌎 Website: https://www.skypalss.online
-- 🚀 Proje Yönetimi: https://trello.com/invite/b/67f97cafa48cdef044308b9b/ATTI5f7884bebfc3e31e98a11da1cce2ef9b0652F22F/skypals
+- 🚀 Proje Yönetimi: https://trello.com/b/ZvzRPr8K/skypals
 
 ---
 
