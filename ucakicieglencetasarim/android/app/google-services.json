@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491673437641",
+    "project_id": "ucakicieglencesistemi",
+    "storage_bucket": "ucakicieglencesistemi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491673437641:android:7ca7c5db32b0335ff3d418",
+        "android_client_info": {
+          "package_name": "com.example.ucakicieglencetasarim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJbmfyERm0x-zRmmMb7isI6D73G5PdK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

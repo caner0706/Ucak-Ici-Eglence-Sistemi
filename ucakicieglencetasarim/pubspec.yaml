@@ -38,6 +38,14 @@ dependencies:
   flutter_animate: ^4.5.0
   flutter_bloc: ^8.1.3
   equatable: ^2.0.5
+  video_player: ^2.8.2
+  just_audio: ^0.9.36
+  model_viewer_plus: ^1.9.2
+  vector_math: ^2.1.4
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  cloud_firestore: ^5.6.7
+  firebase_storage: ^12.4.5
 
 # The following adds the Cupertino Icons font to your application.
 # Use with the CupertinoIcons class for iOS style icons.
@@ -64,11 +72,53 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Roboto-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 500
+
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/
     - assets/icons/
     - assets/animations/
+    - assets/fonts/
+    - assets/images/Karsimala1.mp4
+    - assets/Voices/
+    - assets/Voices/AviationIntroScreen/
+    - assets/Voices/AirFlowScreen/
+    - assets/Voices/AirplanePartsScreen/
+    - assets/Voices/FirstFlightScreen/
+    - assets/Voices/SafetyRulesScreen/
+    - assets/Voices/MeteorologyScreen/
+    - assets/Voices/NavigationScreen/
+    - assets/Voices/CommunicationScreen/
+    - assets/Voices/FlightPlanningScreen/
+    - assets/Voices/EmergencyScreen/
+    - assets/Voices/AerodynamicsLabScreen/
+    - assets/Voices/EngineLabScreen/
+    - assets/Voices/ElectronicsLabScreen/
+    - assets/Voices/FuelLabScreen/
+    - assets/Voices/MaterialLabScreen/
+    - assets/Voices/ClimateLabScreen/
+    - assets/Voices/SoundLabScreen/
+    - assets/Voices/SimulationLabScreen/
+    - assets/Voices/StructureLabScreen/
+    - assets/Voices/FinalProjectScreen/
+    - assets/aeroplanes/
+    - assets/aeroplanes/1.glb
+    - assets/aeroplanes/2.glb
+    - assets/aeroplanes/3.glb
+    - assets/aeroplanes/4.glb
+    - assets/aeroplanes/5.glb
+    - assets/aeroplanes/6.glb
+    - assets/aeroplanes/7.glb
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
